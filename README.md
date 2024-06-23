@@ -1,2 +1,2 @@
 # Housing-in-Germany
-This is the minor Data Science techniques portfolio projects
+This portfolio showcases a series of data science projects where I apply my expertise to predict housing demand in the German real estate market. This report details the primary Python techniques and tools used in these projects. The aim is to enhance business processes and introduce innovative operational methods, spanning pricing estimates, valuation, marketing, and leasing. 
